@@ -1,2 +1,2 @@
-# kuka-robot
+# kuka-yobot
 simulation of kuka
